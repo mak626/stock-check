@@ -1,0 +1,34 @@
+:root {
+  font-family: Poppins;
+  --primary-color: #137186;
+  --secondary-color: #0c358d;
+  --nav-color: white;
+  --font-color: black;
+  --off-white-color: rgb(197, 187, 187);
+}
+
+.theme-profit {
+  --primary-color: #064e3b;
+  --secondary-color: #038b37;
+  --nav-color: white;
+  --font-color: black;
+  --off-white-color: rgb(197, 187, 187);
+}
+
+.theme-loss {
+  --primary-color: #831212;
+  --secondary-color: #f86f14;
+  --nav-color: white;
+  --font-color: black;
+  --off-white-color: rgb(197, 187, 187);
+}
+
+body {
+  margin: 0%;
+  padding: 0%;
+  display: flex;
+  justify-content: center;
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

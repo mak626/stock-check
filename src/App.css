@@ -1,0 +1,69 @@
+@import "./index.css";
+
+.main {
+  width: 100%;
+  max-width: 30rem;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;
+  background-color: var(--primary-color);
+  border-radius: 10px;
+  margin: 0.4rem;
+}
+
+.main h1 {
+  text-align: center;
+}
+
+.main input {
+  display: block;
+  background-color: var(--nav-color);
+  border-radius: 4px;
+  height: fit-content;
+  width: auto;
+  margin: 1rem 0px;
+  font-size: 1.7rem;
+  padding: 8px;
+  border: none;
+  text-align: center;
+}
+
+.main input[type="text"] {
+  max-width: 14.7rem;
+}
+
+.main button {
+  width: 20%;
+  background-color: var(--nav-color);
+  border-radius: 4px;
+  height: fit-content;
+  width: auto;
+  font-size: 1.8rem;
+  margin: 1rem;
+  font-weight: bold;
+  padding: 10px;
+  border: none;
+  color: var(--primary-color);
+}
+
+.main button:hover {
+  color: var(--secondary-color);
+}
+
+.invalid-input {
+  background-color: var(--nav-color);
+  padding: 0px 20px;
+  margin: auto;
+  border-radius: 4px;
+  max-width: 500px;
+  margin: auto;
+}
+
+.invalid-input h4 {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}
