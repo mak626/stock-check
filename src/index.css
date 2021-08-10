@@ -24,10 +24,12 @@
 }
 
 body {
-  margin: 0%;
-  padding: 0%;
+  margin: 0px;
+  padding: 1rem;
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
   color: white;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
