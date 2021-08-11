@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stock-check/static/css/main.f95968e9.chunk.css",
+    "main.css": "/stock-check/static/css/main.940260d4.chunk.css",
     "main.js": "/stock-check/static/js/main.9b6cf83d.chunk.js",
     "main.js.map": "/stock-check/static/js/main.9b6cf83d.chunk.js.map",
     "runtime-main.js": "/stock-check/static/js/runtime-main.edd8afac.js",
@@ -8,7 +8,7 @@
     "static/js/2.a6c3c7ae.chunk.js": "/stock-check/static/js/2.a6c3c7ae.chunk.js",
     "static/js/2.a6c3c7ae.chunk.js.map": "/stock-check/static/js/2.a6c3c7ae.chunk.js.map",
     "index.html": "/stock-check/index.html",
-    "static/css/main.f95968e9.chunk.css.map": "/stock-check/static/css/main.f95968e9.chunk.css.map",
+    "static/css/main.940260d4.chunk.css.map": "/stock-check/static/css/main.940260d4.chunk.css.map",
     "static/js/2.a6c3c7ae.chunk.js.LICENSE.txt": "/stock-check/static/js/2.a6c3c7ae.chunk.js.LICENSE.txt",
     "static/media/loss.e71f061d.svg": "/stock-check/static/media/loss.e71f061d.svg",
     "static/media/normal.b27a9d41.svg": "/stock-check/static/media/normal.b27a9d41.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.edd8afac.js",
     "static/js/2.a6c3c7ae.chunk.js",
-    "static/css/main.f95968e9.chunk.css",
+    "static/css/main.940260d4.chunk.css",
     "static/js/main.9b6cf83d.chunk.js"
   ]
 }
